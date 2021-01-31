@@ -9,7 +9,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
 - [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
 
-Not sure as they are all partially correct
+    Not sure as they are all partially correct
 
 **What is the correct way to move to a directory called "Projects"?**
 
