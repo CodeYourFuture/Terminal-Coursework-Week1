@@ -32,8 +32,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
-option 1: cd .. > cd .. > cd Photos > ls > cd HolidayJuly = July's photo
-option 2: cd ../../Photos/HolidayJuly = July's photo
+option 1: cd .. > cd .. > cd Photos > ls > cd HolidayJuly > ls > cd Hotel > ls = July's Hotel photo
+\noption 2: cd ../../Photos/HolidayJuly/Hotel = July's Hotel photo
 
 ### 3) Counting Script
 
