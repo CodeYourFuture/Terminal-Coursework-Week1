@@ -18,6 +18,8 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+ls MyDocuments > cd Projects > ls > cd JavaScript-Core1 > ls = script.js
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +31,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+option 1: cd .. > cd .. > cd Photos > ls > cd HolidayJuly > ls > cd Hotel > ls = July's Hotel photo
+\noption 2: cd ../../Photos/HolidayJuly/Hotel = July's Hotel photo
 
 ### 3) Counting Script
 
@@ -53,6 +58,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Desktop/GitHub/Terminal-Coursework-Week1/Terminal-Coursework-Week1/MyDocuments/Scripts$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccyf@cyf-ThinkPad-X1-Carbon-2nd:~/Desktop/GitHub/Terminal-Coursework-Week1/Terminal-Coursework-Week1/MyDocuments/Scripts$
 
 ### 4) Quiz
 
