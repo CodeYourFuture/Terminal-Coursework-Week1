@@ -18,6 +18,16 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+step 1 cyf@cyf-ThinkPad-X1-Carbon-2nd:~$ pwd  
+step 2 cyf@cyf-ThinkPad-X1-Carbon-2nd:~$ cd Documents
+step 3 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents$ cd GitHub
+step 4 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub$ ls
+step 5 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub$ cd Terminal-Coursework-Week1
+step 6 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1$ ls
+step 7 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1$ cd MyDocuments
+step 8 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ ls
+step 9 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ cd Scripts
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +39,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+step 1 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ cd ..
+step 2 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ cd Photos
+step 3 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos$ ls
+step 4 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos$ cd HolidayJuly
+step 5 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ ls
+step 6 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ cd Hotel
 
 ### 3) Counting Script
 
@@ -53,6 +70,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$
 
 ### 4) Quiz
 
