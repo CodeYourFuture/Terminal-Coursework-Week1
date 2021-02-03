@@ -18,15 +18,15 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
-step 1 cyf@cyf-ThinkPad-X1-Carbon-2nd:~$ pwd  
-step 2 cyf@cyf-ThinkPad-X1-Carbon-2nd:~$ cd Documents
-step 3 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents$ cd GitHub
-step 4 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub$ ls
-step 5 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub$ cd Terminal-Coursework-Week1
-step 6 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1$ ls
-step 7 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1$ cd MyDocuments
-step 8 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ ls
-step 9 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ cd Scripts
+step 1 $ pwd  
+step 2 $ cd Documents
+step 3 $ cd GitHub
+step 4 $ ls
+step 5 $ cd Terminal-Coursework-Week1
+step 6 $ ls
+step 7 $ cd MyDocuments
+step 8 $ ls
+step 9 $ cd Scripts
 
 ### 2) Find my Hotel Photo
 
@@ -40,12 +40,12 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
-step 1 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ cd ..
-step 2 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments$ cd Photos
-step 3 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos$ ls
-step 4 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos$ cd HolidayJuly
-step 5 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ ls
-step 6 cyf@cyf-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ cd Hotel
+step 1 $ cd ..
+step 2 $ cd Photos
+step 3 $ ls
+step 4 $ cd HolidayJuly
+step 5 $ ls
+step 6 $ cd Hotel
 
 ### 3) Counting Script
 
