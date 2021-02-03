@@ -17,7 +17,22 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
-
+<!-- First, find out what directory (folder) we are currently working on -->
+pwd   <!-- It is revealed that we are inside the Terminal-Coursework-Week1 folder -->
+<!-- Then, list out the files/folders found in Terminal-Coursework-Week1 -->
+ls <!-- (MyDocuments, where MyFirstWebsite is located, is part of the list) -->
+<!-- Navigate to and check the contents of MyDocuments folder -->
+cd mydocuments
+ls
+<!-- Most probably, MyFirstWebsite is part of the Projects folder, but check that first -->
+cd projects
+ls  <!-- Voila! There lies MyFirstWebsite folder -->
+<!-- Navigate to MyFirstWebsite and find out what it contains -->
+cd myfirstwebsite
+ls
+<!-- looks like we have to check the 'scripts' folder for its contents- the rest of the list do not make good candidates -->
+cd scripts
+ls <!-- There you go! script.js is in fact listed as the only content inside the 'scripts' folder -->
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,7 +44,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
-
+cd ../../../photos/holidayjuly/hotel <!-- Navigate three steps back to reach MyDocuments folder (i.e. the parent (root) folder), then to the 
+                                      Photos folder to HolidayJuly folder to Hotel folder, wherein the photo in question is found -->
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -53,7 +69,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
-
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11! <!-- last output line before stopping the script -->
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
@@ -69,3 +95,5 @@ code QUIZ.md
 ```
 
 when you're in the correct directory.
+
+<!-- Exercise Quiz Completed -->
