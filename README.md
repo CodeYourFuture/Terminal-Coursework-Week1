@@ -79,15 +79,7 @@ I have counted to 7
 I have counted to 8
 I have counted to 9
 I have counted to 10
-You should have used Ctrl+C to end the script by now! I have counted to 11!
-You should have used Ctrl+C to end the script by now! I have counted to 12!
-You should have used Ctrl+C to end the script by now! I have counted to 13!
-You should have used Ctrl+C to end the script by now! I have counted to 14!
-You should have used Ctrl+C to end the script by now! I have counted to 15!
-You should have used Ctrl+C to end the script by now! I have counted to 16!
-You should have used Ctrl+C to end the script by now! I have counted to 17!
-You should have used Ctrl+C to end the script by now! I have counted to 18!
-You should have used Ctrl+C to end the script by now! I have counted to 19! <!-- last output line before stopping the script -->
+You should have used Ctrl+C to end the script by now! I have counted to 11! <!-- last output line before stopping the script -->
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
