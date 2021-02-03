@@ -18,15 +18,7 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
-pwd  
-cd Documents
-cd GitHub
-ls
-cd Terminal-Coursework-Week1
-ls
-cd MyDocuments
-ls
-cd Scripts
+pwd/cd Documents/cd GitHub/ls/cd Terminal-Coursework-Week1/ls/cd MyDocuments/ls/cd Scripts
 
 ### 2) Find my Hotel Photo
 
@@ -40,12 +32,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
-cd ..
-cd Photos
-ls
-cd HolidayJuly
-ls
-cd Hotel
+cd ../cd Photos/ls/cd HolidayJuly/ls/cd Hotel
 
 ### 3) Counting Script
 
