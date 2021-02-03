@@ -18,15 +18,15 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
-step 1 $ pwd  
-step 2 $ cd Documents
-step 3 $ cd GitHub
-step 4 $ ls
-step 5 $ cd Terminal-Coursework-Week1
-step 6 $ ls
-step 7 $ cd MyDocuments
-step 8 $ ls
-step 9 $ cd Scripts
+pwd  
+cd Documents
+cd GitHub
+ls
+cd Terminal-Coursework-Week1
+ls
+cd MyDocuments
+ls
+cd Scripts
 
 ### 2) Find my Hotel Photo
 
@@ -40,12 +40,12 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
-step 1 $ cd ..
-step 2 $ cd Photos
-step 3 $ ls
-step 4 $ cd HolidayJuly
-step 5 $ ls
-step 6 $ cd Hotel
+cd ..
+cd Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel
 
 ### 3) Counting Script
 
