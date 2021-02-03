@@ -17,40 +17,28 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
-Step 1. pwd 
-/home/codeyourfuture is the current directory
-Step 2. ls
-A list of all directories on my laptop - like Downloads Documents Desktop etc.
-Step 3. cd Documents
-Documents is now the current directory.
-Step 4. ls
-Some directories inside Documents appeared including Git and GitHub
-Step 5. cd Git
-Git is now the current directory.
-Step 6. ls
-Directories/folders inside Git directory appeared something like - JavaScript-Core-2-Coursework-Week3 Terminal-Coursework-Week1 and more.
-Step 4. cd Terminal-Coursework-Week1 
-Terminal-Coursework-Week1 is now the current directory.
-Step 5. ls
+<!-- Accessing the command line through the VS Terminal -->
+Terminal-Coursework-Week1 is the current directory.
+Step 1. ls
 MyDocuments folder along with README.md and other files
-Step 6. cd MyDocuments
+Step 2. cd MyDocuments
 MyDocuments is now the current directory.
-Step 7. ls
+Step 3. ls
 Inside MyDocuments directory I found Photos Projects Quiz and Scripts directories
-Step 8. cd Projects
+Step 4. cd Projects
 Projects is now the current directory.
-Step 9. ls
+Step 5. ls
 MyFirstWebsite and two more directories are inside Projects directory.
-Step 10. cd MyFirstWebsite
+Step 6. cd MyFirstWebsite
 MyFirstWebsite is now the current directory.
-Step 11. ls
+Step 7. ls
 a scripts folder and index.html and style.css files
-Step 12. cd scripts
+Step 8. cd scripts
 scripts is now the current directory.
-Step 13. ls
-There's only one file inside this directory which is what we have been looking for - script.js
+Step 9. ls
+There's only one file inside this directory which is what we have been looking for - script.js 
 
-NB. From the original laptop the journey could be about as half as of mine as it could start from MyDocuments and follow the same navigation route from there. 
+
 
 
 ### 2) Find my Hotel Photo
