@@ -30,7 +30,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-cd ../../../Photos/HolidayJuly/Hotel
+cd ../Photos/HolidayJuly/hotel
+
 
 ### 3) Counting Script
 
