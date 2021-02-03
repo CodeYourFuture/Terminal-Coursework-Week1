@@ -17,7 +17,7 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
-<!-- Accessing the command line through the VS Terminal -->
+<!-- Accessing the command line through the Terminal via VS code -->
 Terminal-Coursework-Week1 is the current directory.
 Step 1. ls
 MyDocuments folder along with README.md and other files
