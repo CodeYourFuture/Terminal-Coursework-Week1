@@ -18,6 +18,18 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+pwd - to find where you are
+
+ls - to list files in this directory
+cd .\MyDocuments\ - to change directory to the myDocuments folder
+ls - to list files/folders in myDocuments folder
+cd .\Projects\
+ls - list files/folders in Projects folder
+cd .\JavaScript-Core1\
+ls - list files/folders in JavaScript-Core1
+
+script.js found
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +41,18 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+pwd - see current location
+cd .. - go up a directory to Projects folder
+cd .. - go up further to MyDocuments
+ls - list files/folders in MyDocuments
+cd .\Photos\
+ls
+cd .\HolidayJuly\
+ls
+cd .\Hotel\
+ls
+photo found
 
 ### 3) Counting Script
 
@@ -53,6 +77,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
