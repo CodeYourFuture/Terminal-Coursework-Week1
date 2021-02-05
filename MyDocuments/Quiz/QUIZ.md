@@ -4,21 +4,21 @@ You can mark your choice by putting an `x` in the correct box
 
 **Which of these is incorrect?**
 
-- [ ] The terminal is an interface that allows you to access the command line
+- [ ] The terminal is an interface that allows you to access the command line `*`
 - [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
-- [ ] You have access to many more commands and scripts on the Terminal than with a GUI
+- [ ] You have access to many more commands and scripts on the Terminal than with a GUI `*`
 - [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
+- [ ] cd Projects `*`
 - [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
 
 **What is the correct way to move up a directory?**
 
-- [ ] cd ..
+- [ ] cd ..`*`
 - [ ] cd ~
 - [ ] mv ..
 - [ ] cd ./
@@ -26,7 +26,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c
+- [ ] ctrl+c `*`
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -34,7 +34,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key
+- [ ] The tab key `*`
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
@@ -43,7 +43,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What's the correct command to view all the files in your current directory?**
 
-- [ ] ls
+- [ ] ls `*`
 - [ ] pwd
 - [ ] mv
 - [ ] cd
@@ -55,7 +55,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] ls
 - [ ] pwd
 - [ ] mv
-- [ ] cd
+- [ ] cd `*`
 - [ ] clear
 - [ ] mkdir
 
@@ -65,7 +65,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] pwd
 - [ ] mv
 - [ ] cd
-- [ ] clear
+- [ ] clear`*`
 - [ ] mkdir
 
 **What is the correct command to make a folder in the terminal?**
@@ -75,13 +75,13 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] mv
 - [ ] cd
 - [ ] clear
-- [ ] mkdir
+- [ ] mkdir `*`
 
 **What is the correct command to move a file in the terminal?**
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv
+- [ ] mv`*`
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
@@ -92,4 +92,4 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] extra
 - [ ] function
 - [ ] dash
-- [ ] all
+- [ ] all`*`
