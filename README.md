@@ -17,6 +17,10 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+cd MyDocuments, then enter
+i should have the document file then i should press ls to get the list of the file inside it.
+or i should use the GREP + SCRIPT.JS + MyDocument
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +33,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+after completing the previous task, i should use cd .. to go back to my MyDocument folder and then LS to get the list and it should be on the photo folder. 
 
 ### 3) Counting Script
 
