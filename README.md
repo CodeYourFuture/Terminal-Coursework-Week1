@@ -17,6 +17,29 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+<!-- Accessing the command line through the Terminal via VS code -->
+Terminal-Coursework-Week1 is the current directory.
+Step 1. ls
+MyDocuments folder along with README.md and other files
+Step 2. cd MyDocuments
+MyDocuments is now the current directory.
+Step 3. ls
+Inside MyDocuments directory I found Photos Projects Quiz and Scripts directories
+Step 4. cd Projects
+Projects is now the current directory.
+Step 5. ls
+MyFirstWebsite and two more directories are inside Projects directory.
+Step 6. cd MyFirstWebsite
+MyFirstWebsite is now the current directory.
+Step 7. ls
+a scripts folder and index.html and style.css files
+Step 8. cd scripts
+scripts is now the current directory.
+Step 9. ls
+There's only one file inside this directory which is what we have been looking for - script.js 
+
+
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +52,28 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+Step 1. cd ..
+This is a one step back from scripts directory to MyFirstWebsite directory.
+Step 2. cd ..
+An other step back to Projects directory.
+Step 3. cd ..
+MyDocuments is now the current directory.
+Step 4. ls **This step could be avoided/skipped**
+Gives us Photos Projects Quiz Scripts directories
+Step 5. cd Photos
+Photos is now the current directory
+Step 6. ls
+HolidayJuly HolidayJune
+Step 7. cd HolidayJuly
+HolidayJuly is now the current directory.
+Step 8. ls
+cyf.png Flight Hotel
+Step 9. cd Hotel
+Hotel is now the current directory.
+Step 10. ls
+cyf.png 
+
+
 
 ### 3) Counting Script
 
@@ -53,6 +98,18 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+codeyourfuture@codeyourfuture-ThinkPad-X1-Carbon-2nd:~/Documents/Git/Terminal-Coursework-Week1/MyDocuments/Scripts$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccodeyourfuture@codeyourfuture-ThinkPad-X1-Carbon-2nd:~/Documents/Git/Terminal-Coursework-Week1/MyDocuments/Scripts$ 
 
 ### 4) Quiz
 
