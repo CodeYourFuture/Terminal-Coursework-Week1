@@ -16,7 +16,18 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+moniqueking@Moniques-MacBook-Pro ~ % pwd  
+/Users/moniqueking
+moniqueking@Moniques-MacBook-Pro ~ % cd Desktop
+moniqueking@Moniques-MacBook-Pro Desktop % cd CYF
+moniqueking@Moniques-MacBook-Pro CYF % cd Terminal-Coursework-Week1
+moniqueking@Moniques-MacBook-Pro Terminal-Coursework-Week1 % cd MyDocuments
+moniqueking@Moniques-MacBook-Pro MyDocuments % ls
+Photos Projects Quiz Scripts
+moniqueking@Moniques-MacBook-Pro MyDocuments % cd Scripts
+moniqueking@Moniques-MacBook-Pro Scripts % ls
+count_to_100.sh
+moniqueking@Moniques-MacBook-Pro Scripts %
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +39,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+moniqueking@Moniques-MacBook-Pro Scripts % cd ..
+moniqueking@Moniques-MacBook-Pro MyDocuments % ls
+Photos Projects Quiz Scripts
+moniqueking@Moniques-MacBook-Pro MyDocuments % cd photos
+moniqueking@Moniques-MacBook-Pro photos % ls
+HolidayJuly HolidayJune
+moniqueking@Moniques-MacBook-Pro photos % cd HolidayJuly
+moniqueking@Moniques-MacBook-Pro HolidayJuly % ls
+Flight Hotel cyf.png
+moniqueking@Moniques-MacBook-Pro HolidayJuly %
 
 ### 3) Counting Script
 
@@ -52,7 +72,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+I have counted to 10
 
 ### 4) Quiz
 
