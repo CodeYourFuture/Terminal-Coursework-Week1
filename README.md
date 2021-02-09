@@ -16,7 +16,16 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- Answer below -->
+
+```
+users-air:Terminal-Coursework-Week1 admin$ pwd
+/Users/admin/Documents/development/Terminal-Coursework-Week1
+users-air:Terminal-Coursework-Week1 admin$ cd MyDocuments/Projects/MyFirstWebsite/
+users-air:MyFirstWebsite admin$ cd scripts/
+users-air:scripts admin$ ls
+script.js
+```
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +37,22 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- Answer below -->
+
+```
+users-air:scripts admin$ cd ../../../
+users-air:MyDocuments admin$ pwd
+/Users/admin/Documents/development/Terminal-Coursework-Week1/MyDocuments
+users-air:MyDocuments admin$ cd Photos
+users-air:Photos admin$ ls
+HolidayJuly     HolidayJune
+users-air:Photos admin$ cd HolidayJuly
+users-air:HolidayJuly admin$ ls
+Flight  Hotel   cyf.png
+users-air:HolidayJuly admin$ cd Hotel
+users-air:Hotel admin$ ls
+cyf.png
+```
 
 ### 3) Counting Script
 
@@ -52,7 +76,49 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+<!-- Answer below -->
+
+```
+users-air:scripts admin$ cd ../../../
+users-air:MyDocuments admin$ cd Scripts
+users-air:Scripts admin$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+You should have used Ctrl+C to end the script by now! I have counted to 12!
+^Cusers-air:Scripts admin$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+^Cusers-air:Scripts admin$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+users-air:Scripts admin$
+```
 
 ### 4) Quiz
 
