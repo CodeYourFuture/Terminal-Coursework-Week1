@@ -18,7 +18,11 @@ Hint: You should use `cd` and `ls`.
 
 cd MyDocuments/
 ls
-cd Scripts/
+cd Projects/
+ls
+cd MyFirstWebsite/
+ls
+cd scripts/
 ls
 
 ### 2) Find my Hotel Photo
