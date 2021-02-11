@@ -16,6 +16,14 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
+cd MyDocuments
+ls
+cd Projects
+ls
+cd myFirstWebsite
+ls
+cd scripts
+ls
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -27,8 +35,10 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+cd ../../../
+cd Photos/HolidayJuly/Hotel/
+ls
 
-<!-- Write your answer here -->
 
 ### 3) Counting Script
 
@@ -49,10 +59,20 @@ when you're in the correct directory.
 For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
+cd MyDocuments/Scripts/
+./count_to_100.sh
+ctrl + C
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
-Copy the output of the script here
-
-<!-- Write your answer here -->
 
 ### 4) Quiz
 
