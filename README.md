@@ -17,7 +17,7 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 ls
-cd MyDocuments/Projects/JavaScript-Core1/
+cd MyDocuments/Projects/MyFirstWebsite/scripts
 ### 2) Find my Hotel Photo
 
 Great work!
