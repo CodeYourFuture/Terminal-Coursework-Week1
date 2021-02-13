@@ -16,7 +16,15 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd myDocuments
+cd Projects
+cd MyFirstWebsite
+cd scripts
+ls
+
+Shortened solution:
+\Terminal-Coursework-Week1\myDocuments\Projects\MyFirstWebsite\scripts
+ls
 
 ### 2) Find my Hotel Photo
 
@@ -25,10 +33,11 @@ Great work!
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
 
 **Note**: You should do this by moving from where you are after completing the previous task.
+cd ~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel/cyf.png
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel
 
 ### 3) Counting Script
 
@@ -52,7 +61,16 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
