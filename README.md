@@ -15,7 +15,9 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
-
+cd MyDocuments
+cd Project
+cd javaScript-Core1
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -27,6 +29,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+cd ../../
+cd photos
+cd holidayjuly 
 
 <!-- Write your answer here -->
 
@@ -51,6 +56,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 #### 3) Answer
 
 Copy the output of the script here
+$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 <!-- Write your answer here -->
 
