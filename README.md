@@ -18,7 +18,7 @@ Hint: You should use `cd` and `ls`.
 
 pwd
 cd MyDocuments
-ls *
+ls \*
 cd Projects/MyFirstWebsite
 ls
 cd scripts
@@ -34,7 +34,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-cd ../../p../Photos/HolidayJuly
+cd ../../p../Photos/HolidayJuly/cyf.png
 
 ### 3) Counting Script
 
@@ -70,7 +70,7 @@ I have counted to 8
 I have counted to 9
 I have counted to 10
 ^Caisha@aisha-Inspiron-5480:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ ^C
-aisha@aisha-Inspiron-5480:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ 
+aisha@aisha-Inspiron-5480:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$
 
 ### 4) Quiz
 
