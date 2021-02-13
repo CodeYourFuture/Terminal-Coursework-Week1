@@ -75,6 +75,20 @@ Copy the output of the script here
 
 <!-- Write your answer here -->
 
+cd ../../../Scripts
+./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+ctrl+c
+
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
