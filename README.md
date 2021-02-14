@@ -16,7 +16,17 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd MyDocuments
+ls
+cd Scripts
+ls
+cd ..
+cd Projects
+ls
+cd MyFirstWebsite
+ls
+cd scripts
+ls
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +38,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ../../../
+cd Photos/HolidayJuly/Hotel/
+ls
 
 ### 3) Counting Script
 
@@ -52,7 +64,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
 
 ### 4) Quiz
 
