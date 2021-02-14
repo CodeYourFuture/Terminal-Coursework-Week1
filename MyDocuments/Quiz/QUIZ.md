@@ -53,7 +53,7 @@ You can mark your choice by putting an `x` in the correct box
 **What's the correct command to see the current directory you are in?**
 
 - [ ] ls
-- [ ] pwd
+- [X] pwd
 - [ ] mv
 - [ ] cd
 - [ ] clear
@@ -88,8 +88,8 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-- [ ] parameter
+- [X] parameter
 - [ ] extra
 - [ ] function
-- [X] dash
+- [ ] dash
 - [ ] all
