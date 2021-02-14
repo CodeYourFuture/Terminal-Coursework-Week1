@@ -10,12 +10,20 @@ In this repository you'll find `MyDocuments` - this is all the documents that I 
 
 I need to find the `script.js` file that is a part of MyFirstWebsite however you are **not** allowed to use a GUI, you must use Command Line and the Terminal.
 
-What commands would I need to change directory to the directory containing `script.js`? In the section below, write all the commands you used.
+What commands would lsI need to change directory to the directory containing `script.js`? In the section below, write all the commands you used.
 
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
-
+$ ls
+$ cd MyDocuments
+$ ls
+$ cd Projects
+$ ls
+$ cd MyFirstWebsite
+$ ls
+$ cd scripts
+$ ls
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -29,6 +37,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+cd ..
+ls 
+cd ..
+ls
+cd ..
+ls
+cd Holidayjuly
+ls
+cd Hotel
+ls
 
 ### 3) Counting Script
 
@@ -53,7 +71,20 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+bash count_to_100.sh
+Answer:
+I have counted to 1!
+I have counted to 2!
+I have counted to 3!
+I have counted to 4!
+I have counted to 5!
+I have counted to 6!
+I have counted to 7!
+I have counted to 8!
+I have counted to 9!
+I have counted to 10!
 
+Ctrl+c to stop
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
