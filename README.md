@@ -18,6 +18,18 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+1-pwd and ls
+GRADING.md HOW-TO-GET-HELP.md HOW-TO-SUBMIT.md MyDocuments README.md
+
+2- cd MyDocuments and ls
+Photos Projects Quiz Scripts
+
+3- cd Projects/MyFirstWebsite and ls
+index.html scripts style.css
+4- cd scripts and ls
+script.js
+5- code script.js
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +41,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+1. cd .. three times then pwd and ls
+   Photos Projects Quiz Scripts
+2. cd Photo ls
+   HolidayJuly HolidayJune
+3. cd HolidayJuly and ls
+   cyf.png Flight Hotel
+4. cd Hotel ls
+   cyf.png
+5. code cyf.png
 
 ### 3) Counting Script
 
@@ -51,6 +73,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 #### 3) Answer
 
 Copy the output of the script here
+./count_to_100.sh Ctrl+C
 
 <!-- Write your answer here -->
 
