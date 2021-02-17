@@ -47,9 +47,14 @@ ls
 cd Photos
 ls
 cd HolidayJuly
+ls
+cd Hotel
+
+photo is (CYF.png)
+
 
 simplified version if you know directories/folders
-cd ../Photos/HolidayJuly
+cd ../Photos/HolidayJuly/Hotel
 
 
 ### 3) Counting Script
