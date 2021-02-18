@@ -15,6 +15,15 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+cd MyDocuments
+ls
+cd projects
+ls
+cd JavaScript-Core1
+ls
+
+
+
 
 <!-- Write your answer here -->
 
@@ -27,6 +36,15 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+
+cd ..
+cd ..
+cd Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel
+ls
 
 <!-- Write your answer here -->
 
@@ -49,6 +67,16 @@ when you're in the correct directory.
 For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
+cd ..
+cd ..
+cd ..
+ls
+cd Scripts
+ls
+./count_to_100.sh
+ctrl c when it counts the 10th ;)
+
+
 
 Copy the output of the script here
 
