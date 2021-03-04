@@ -16,7 +16,17 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- ls (enter) 
+cd MyDocuments (tab, enter)
+ls (enter)
+cd  Projects (tab, enter)
+ls (enter) 
+cd MyFirstWebsite (tab, enter)
+ls (enter)
+cd Scripts (tab, enter)
+ls (enter)
+node scripts.js
+ -->
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +38,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- cd ../../../(tab)
+ -->
 
 ### 3) Counting Script
 
