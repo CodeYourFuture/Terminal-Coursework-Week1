@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Amanda Obiajulu Nwadukwe
+- Your City: Lancaster
+- Your Slack Name: Amanda Nwadukwe
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and GitHub
+- Week: Week 2
