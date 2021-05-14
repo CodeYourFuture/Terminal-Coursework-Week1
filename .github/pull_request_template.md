@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Bimbola Lasisi
+- Your City: Manchester
+- Your Slack Name: Bimbola (Bee)
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Gut/GitHub
+- Week: Week 2

@@ -15,7 +15,9 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
-
+cd command line to open up the script,
+step1 - cd Terminal-Coursework-Week1/
+step 2 - cd  Terminal-Coursework-Week1/Scripts
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -27,7 +29,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
-
+cd  Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel/
 <!-- Write your answer here -->
 
 ### 3) Counting Script
@@ -52,6 +54,9 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
+step 1 - cd  Terminal-Coursework-Week1/MyDocuments/Scripts
+step 2- type ls -a to open count_to_100.sh
+step 3- type code . to run and open on visual code 
 <!-- Write your answer here -->
 
 ### 4) Quiz
