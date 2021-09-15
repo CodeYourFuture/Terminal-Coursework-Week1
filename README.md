@@ -17,6 +17,13 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+ pwd  (should be at "My Documents")
+ ls   ( should list all the folders within "My Documents")
+ cd Projects (should now be in "Projects" folder)
+ ls   (should list all the files within "Projects")
+ cd  MyFirstWebsite 
+ ls  (should list all files in MyFirstWebsite)
+ cd script.js
 
 ### 2) Find my Hotel Photo
 
@@ -27,6 +34,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+ cd.. (moves back to MyFirstWebsite)
+ cd..(moves back to Projects)
+ cd.. (moves back to MyDocuments)
+ cd Photos (moves to photos)
+ ls
+ cd HolidayJuly (moves to folder required)
+ ls (lists contents of HolidayJuly)
 
 <!-- Write your answer here -->
 
@@ -53,7 +67,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
-
+ I was unable to get this to work. I used the terminal to locate where my Git folder is stored but I just kept getting 'No such file or directory' So , at present I am unable to complete this exercise. 
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete

@@ -7,18 +7,18 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] The terminal is an interface that allows you to access the command line
 - [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
-- [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
+- [ X] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
+- [ X] cd Projects
 - [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
 
 **What is the correct way to move up a directory?**
 
-- [ ] cd ..
+- [ X] cd ..
 - [ ] cd ~
 - [ ] mv ..
 - [ ] cd ./
@@ -26,7 +26,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c
+- [ X] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -34,7 +34,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key
+- [ X] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
@@ -43,7 +43,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What's the correct command to view all the files in your current directory?**
 
-- [ ] ls
+- [ X] ls
 - [ ] pwd
 - [ ] mv
 - [ ] cd
@@ -53,14 +53,14 @@ You can mark your choice by putting an `x` in the correct box
 **What's the correct command to see the current directory you are in?**
 
 - [ ] ls
-- [ ] pwd
+- [ X] pwd
 - [ ] mv
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
 
 **What's the correct command to remove all commands from the terminal window?**
-
+I thought it was cmd k ?
 - [ ] ls
 - [ ] pwd
 - [ ] mv
@@ -75,19 +75,19 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] mv
 - [ ] cd
 - [ ] clear
-- [ ] mkdir
+- [ X] mkdir
 
 **What is the correct command to move a file in the terminal?**
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv
+- [ X] mv
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
 
 **What is the correct name for the part after the - in this command "ls -all"?**
-
+I don't know! 
 - [ ] parameter
 - [ ] extra
 - [ ] function
