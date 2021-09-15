@@ -10,13 +10,14 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 -->
 
+
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Maria Chira
+- Your City: Birmingham, West Midlands
+- Your Slack Name: Maria Georgiana Chira
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git&Github - Lesson2 Coursework-
+- Week: 1
