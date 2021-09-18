@@ -17,6 +17,16 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+1-cd Terminal-Coursework-Week1.
+2-ls
+3-cd MyDocuments
+4-ls
+5-cd Projects
+6-ls
+7-cd JavaScript-Core1
+8-ls
+
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +39,15 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+1-cd ..
+2-cd ..
+3-ls
+4-cd Photos
+5-ls
+6-cd HoildayJuly
+7-ls
+8-cd Hotel
+9-ls
 
 ### 3) Counting Script
 
@@ -52,7 +71,16 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
