@@ -14,13 +14,13 @@ What commands would I need to change directory to the directory containing `scri
 
 Hint: You should use `cd` and `ls`.
 
-#### 1) Answer
+#### 1) Answer: 
 
-<!-- Write your answer here -->
+cd MyDocuments > ls > cd Projects > ls > cd JavaScript-Core1 > ls > cd scrpt.js 
 
-### 2) Find my Hotel Photo
+### 2) Find my Hotel Photo: 
 
-Great work!
+ Great work!
 
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
 
@@ -28,23 +28,19 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd .. > cd .. > cd .. cd .. > cd Photos > ls > cd HolidayJuly > ls > cd Hotel > ls > cd cyf.png (I'm not sure if that's the most efficent way to navigate backwards many levels).
 
 ### 3) Counting Script
 
-Next, I want you to run the script in this directory
+Next, I want you to run the script in this directory:
 
-```
 /MyDocuments/Scripts/
-```
 
-You can run the script by typing
+You can run the script by typing... 
 
-```
-./count_to_100.sh
-```
+"./count_to_100.sh"
 
-when you're in the correct directory.
+... when you're in the correct directory.
 
 For this task, I want you to **stop** the counter when I have counted to 10.
 
@@ -52,7 +48,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+[[I don't really understand this question]]
 
 ### 4) Quiz
 
