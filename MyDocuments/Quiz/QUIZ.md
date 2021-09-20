@@ -34,10 +34,10 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key
+- [ X] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
-- [ x] The enter key
+- [ ] The enter key
 - [ ] The escape key
 - [ ] The delete key
 
