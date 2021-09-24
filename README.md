@@ -15,8 +15,20 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+pwd : checking my current location
+ls : to check the content
+cd : open to the folder
+________________________________________
+pwd
+cd MyDocuments
+ls
+cd Projects
+ls
+cd MyFirstWebsite
+ls
+cd scripts
+code script.js 
 
-<!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
 
@@ -27,8 +39,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+cd MyDocuments
+ls
+cd Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel
+ls
 
-<!-- Write your answer here -->
+
 
 ### 3) Counting Script
 
@@ -52,7 +72,9 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+$ ./count_to_100.sh 
+./count_to_100.sh: line 3: syntax error near unexpected token `$'do\r''
+'/count_to_100.sh: line 3: `do
 
 ### 4) Quiz
 
