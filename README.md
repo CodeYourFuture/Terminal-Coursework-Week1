@@ -24,7 +24,6 @@ cd MyFirstWebsite
 ls
 cd scripts
 ls
-cd script.js
 
 <!-- Write your answer here -->
 
