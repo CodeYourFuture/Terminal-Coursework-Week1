@@ -24,7 +24,9 @@ cd Scripts/
 ls
 cd ../Projects/
 ls
-cd JavaScript-Core1/
+cd MyFirstWebsite/
+ls
+cd scripts/
 ls
 ```
 
