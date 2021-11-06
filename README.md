@@ -14,6 +14,7 @@ What commands would I need to change directory to the directory containing `scri
 
 Hint: You should use `cd` and `ls`.
 
+
 #### 1) Answer
 
 <!-- Write your answer here -->
