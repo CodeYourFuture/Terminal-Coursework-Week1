@@ -18,6 +18,17 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+pwd
+ls
+cd MyDocuments
+ls
+cd Projects
+ls
+cd MyFirstWebsite
+ls
+cd scripts
+code script.js
+
 
 ### 2) Find my Hotel Photo
 
@@ -30,6 +41,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+cd ..
+cd ..
+cd ..
+ls
+cd Photos
+cd HolidayJuly
+code cyf.png
 
 ### 3) Counting Script
 
@@ -52,6 +70,18 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 #### 3) Answer
 
 Copy the output of the script here
+
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccodeyourfuture@codeyourfuture-ThinkPad-X1-Carbon-2nd:~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts$ 
 
 <!-- Write your answer here -->
 
