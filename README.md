@@ -16,7 +16,17 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+1. git clone https://github.com/CodeYourFuture/Terminal-Coursework-Week1
+2. cd Terminal-Coursework-Week1 
+3. cd MyDocuments
+4. ls
+5. cd Projects
+6. ls 
+7. cd MyFirstWebsite
+8. ls 
+9. cd scripts 
+10. ls
+11. The answer is Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite/scripts/script.js
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +38,18 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+1. cd ..
+2. cd ..
+3. cd ..
+4. ls 
+5. cd Photos 
+6. ls
+7. cd HolidayJuly
+8. ls
+9. cd Hotel
+10. ls 
+11. The answer is Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel/cyf.png
+
 
 ### 3) Counting Script
 
@@ -52,7 +73,25 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+cyf.png
+[berkeli@berkeli-81bn Hotel]$ cd ..
+[berkeli@berkeli-81bn HolidayJuly]$ cd ..
+[berkeli@berkeli-81bn Photos]$ cd ..
+[berkeli@berkeli-81bn MyDocuments]$ cd scripts
+bash: cd: scripts: No such file or directory
+[berkeli@berkeli-81bn MyDocuments]$ cd Scripts
+[berkeli@berkeli-81bn Scripts]$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^C[berkeli@berkeli-81bn Scripts]$
 
 ### 4) Quiz
 
