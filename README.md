@@ -23,7 +23,9 @@ cd MyDocuments
 ls
 cd Projects
 ls
-cd JavaScript-Core1
+cd MyFirstWebsite
+ls
+cd Scripts
 ls
 ### 2) Find my Hotel Photo
 
@@ -41,9 +43,13 @@ cd ..
 ls
 cd ..
 ls
+cd
+ls
 cd Photos
 ls
 cd HolidayJuly 
+ls
+cd Hotel
 ls
 ### 3) Counting Script
 
