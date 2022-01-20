@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Marina Almeida
+- Your City: London
+- Your Slack Name: Marina Almeida (Trainee)
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Terminal Coursework
+- Week: 1
