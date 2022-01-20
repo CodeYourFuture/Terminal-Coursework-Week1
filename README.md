@@ -17,6 +17,7 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1> cd .\MyDocuments\Scripts\
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +30,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Scripts> cd..
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments> cd .\Photos
 
 ### 3) Counting Script
 
@@ -37,12 +40,15 @@ Next, I want you to run the script in this directory
 ```
 /MyDocuments/Scripts/
 ```
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments> cd .\Scripts\
+
 
 You can run the script by typing
 
 ```
 ./count_to_100.sh
 ```
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Scripts> node .\count_to_100.sh
 
 when you're in the correct directory.
 
@@ -53,6 +59,12 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+<!--I think this code is working on linux terminal only, I am using windows laptop.-->
+## sleep in bash for loop ##
+^
+SyntaxError: Invalid or unexpected token
+
 
 ### 4) Quiz
 
