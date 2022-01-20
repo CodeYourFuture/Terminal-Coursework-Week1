@@ -18,6 +18,8 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1> cd .\MyDocuments\Scripts\
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -30,6 +32,21 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1> cd .\MyDocuments\
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments> cd .\Photos\
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Photos> cd .\HolidayJuly\
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Photos\HolidayJuly> dir
+
+    Directory: C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Photos\HolidayJuly
+
+Mode LastWriteTime Length Name
+
+---
+
+d----- 20/01/2022 22:20 Flight
+d----- 20/01/2022 22:20 Hotel
+-a---- 20/01/2022 22:20 1306151 cyf.png
+
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -38,11 +55,15 @@ Next, I want you to run the script in this directory
 /MyDocuments/Scripts/
 ```
 
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments> cd .\Scripts\
+
 You can run the script by typing
 
 ```
 ./count_to_100.sh
 ```
+
+PS C:\Users\HTJIU\Documents\CYF\Terminal-Coursework-Week1\MyDocuments\Scripts> node .\count_to_100.sh
 
 when you're in the correct directory.
 
@@ -53,6 +74,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
