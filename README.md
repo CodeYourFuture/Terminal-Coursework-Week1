@@ -15,20 +15,27 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+cd MyDocuments
 
-<!-- Write your answer here -->
+
 
 ### 2) Find my Hotel Photo
+cd Photos/HolidayJuly/Hotel
+
 
 Great work!
 
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
 
+
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
 
+
 <!-- Write your answer here -->
+cd..
+ls
 
 ### 3) Counting Script
 
@@ -53,6 +60,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+I pressed ctrl+C but the code ran too fast. 😆. It always finished counting to 100 in 0.121 seconds.
 
 ### 4) Quiz
 
