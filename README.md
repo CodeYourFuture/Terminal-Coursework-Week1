@@ -60,7 +60,8 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
-press ctrl+C
+I pressed ctrl+C but the code ran too fast. 😆. It always finished counting to 100 in 0.121 seconds.
+
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
