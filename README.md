@@ -13,10 +13,18 @@ I need to find the `script.js` file that is a part of MyFirstWebsite however you
 What commands would I need to change directory to the directory containing `script.js`? In the section below, write all the commands you used.
 
 Hint: You should use `cd` and `ls`.
-
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- 
+cd MyDocuments 
+cd Projects 
+ls
+JavaScript-Core1	MyFirstWebsite		PortfolioWebsite
+cd MyFirstWebsite 
+ls 
+index.html	scripts		style.css
+open scripts  
+-->
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +36,21 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- 
+cd .. 
+cd ..
+ls
+Photos		Projects	Quiz		Scripts
+cd Photos 
+ls
+HolidayJuly	HolidayJune
+cd HolidayJuly
+ls
+Flight	Hotel	cyf.png
+cd Hotel 
+ls
+cyf.png
+-->
 
 ### 3) Counting Script
 
@@ -52,7 +74,20 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+<!-- margaritaglushkova@Margaritas-MacBook-Pro Scripts % ./count_to_100.sh 
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+^C
+margaritaglushkova@Margaritas-MacBook-Pro Scripts % -->
 
 ### 4) Quiz
 
