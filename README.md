@@ -17,6 +17,18 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+pwd to know my current location
+ls to list all the folders
+cd MyDocuments to go into this folder
+ls to list all the folders in the MyDocument folder
+cd Projects to move to this folder
+ls to list all the folders in this folder
+cd MyFirstWebsite
+ls to list the folders inside MyFirstWebsite
+cd scripts
+ls to list all the folders and there I can see the script.js file
+
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +41,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+cd .. moved up to MyFirstWebsite
+cd .. moved up again to Projects
+cd .. moved up to MyDocuments
+ls to list all the folders in MyDocuments were I have the Photos folder
+cd Photos to move into this folder
+ls to list all the folders in this folder here I can see the HolidayJuly folder
+cd HolidayJuly
+ls to list all the folders inside the HolidayJuly
+cd Hotel
+ls to list all the folders inside the Hotel folder, here I can the cyf.png photo
 
 ### 3) Counting Script
 
@@ -53,7 +75,34 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+You should have used Ctrl+C to end the script by now! I have counted to 12!
+You should have used Ctrl+C to end the script by now! I have counted to 13!
 
+You should have used Ctrl+C to end the script by now! I have counted to 14!
+You should have used Ctrl+C to end the script by now! I have counted to 15!
+You should have used Ctrl+C to end the script by now! I have counted to 16!
+You should have used Ctrl+C to end the script by now! I have counted to 17!
+You should have used Ctrl+C to end the script by now! I have counted to 18!
+You should have used Ctrl+C to end the script by now! I have counted to 19!
+You should have used Ctrl+C to end the script by now! I have counted to 20!
+You should have used Ctrl+C to end the script by now! I have counted to 21!
+You should have used Ctrl+C to end the script by now! I have counted to 22!
+You should have used Ctrl+C to end the script by now! I have counted to 23!
+You should have used Ctrl+C to end the script by now! I have counted to 24!
+You should have used Ctrl+C to end the script by now! I have counted to 25!
+You should have used Ctrl+C to end the script by now! I have counted to 26!
+^C
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
