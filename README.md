@@ -15,8 +15,12 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
-
-<!-- Write your answer here -->
+ls
+cd Terminal-Coursework-Week1
+cd MyDocuments
+cd Projects
+cd JavaScript-Core1
+cd script
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +32,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ..
+cd ..
+cd Photos
+cd HolidayJuly
+cd Hotel
 
 ### 3) Counting Script
 
@@ -61,7 +69,7 @@ In this directory you'll find a quick quiz for you to complete
 ```
 /MyDocuments/Quiz
 ```
-
+//quiz completed
 You should open the quiz in Visual Studio Code and complete it. You can do this either by opening this project in VSCode or by running the command
 
 ```sh
