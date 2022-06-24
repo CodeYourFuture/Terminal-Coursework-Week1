@@ -4,9 +4,9 @@ You can mark your choice by putting an `x` in the correct box
 
 **Which of these is incorrect?**
 
-- [X ] The terminal is an interface that allows you to access the command line
-- [X ] It can be much faster to complete some tasks using a Terminal than with a GUI
-- [ ] You have access to many more commands and scripts on the Terminal than with a GUI
+- [ ] The terminal is an interface that allows you to access the command line
+- [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
+- [x ] You have access to many more commands and scripts on the Terminal than with a GUI
 - [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
@@ -18,16 +18,16 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct way to move up a directory?**
 
-- [ ] cd ..
-- [X] cd ~
+- [x] cd ..
+- [ ] cd ~
 - [ ] mv ..
 - [ ] cd ./
 
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c
-- [X ] ctrl+shift or cmd+shift
+- [x] ctrl+c
+- [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
 - [ ] The delete key
