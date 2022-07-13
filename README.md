@@ -18,6 +18,16 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+1. cd MyDocuments
+2. ls
+3. cd Projects
+4. ls
+5. cd MyFirstWebsite
+6. ls
+7. cd scripts
+8. ls
+9. cd script.js
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +39,14 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+1. cd .. (I ran this 3 times to get back to the MyDocuments folder)
+2. ls
+3. cd Photos
+4. ls
+5. cd HolidayJuly
+6. ls
+7. cd Hotel
 
 ### 3) Counting Script
 
@@ -53,6 +71,8 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+1. It was too quick for me when I ran the script to stop at 10 so it went straight to 100
 
 ### 4) Quiz
 
