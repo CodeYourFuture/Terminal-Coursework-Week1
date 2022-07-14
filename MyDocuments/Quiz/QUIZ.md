@@ -7,11 +7,11 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] The terminal is an interface that allows you to access the command line
 - [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
-- [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
+- [ ] The terminal gives you more powers/privileges to complete tasks than a GUI // X
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
+- [ ] cd Projects // X
 - [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
@@ -43,7 +43,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What's the correct command to view all the files in your current directory?**
 
-- [ ] ls
+- [ ] ls // X
 - [ ] pwd
 - [ ] mv
 - [ ] cd
@@ -53,7 +53,7 @@ You can mark your choice by putting an `x` in the correct box
 **What's the correct command to see the current directory you are in?**
 
 - [ ] ls
-- [ ] pwd
+- [ ] pwd // X
 - [ ] mv
 - [ ] cd
 - [ ] clear
@@ -65,7 +65,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] pwd
 - [ ] mv
 - [ ] cd
-- [ ] clear
+- [ ] clear // X
 - [ ] mkdir
 
 **What is the correct command to make a folder in the terminal?**
@@ -75,7 +75,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] mv
 - [ ] cd
 - [ ] clear
-- [ ] mkdir
+- [ ] mkdir // X
 
 **What is the correct command to move a file in the terminal?**
 
