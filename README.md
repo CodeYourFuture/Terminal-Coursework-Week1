@@ -17,6 +17,12 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+cd MyDocuments
+ls
+cd projects
+cd MyFirstWebsite
+ls
+cd scripts
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +35,16 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+pwd
+cd ..
+cd ..
+cd ..
+cd photos
+ls
+cd HolidayJuly
+ls
+cd hotel
+ls     <!-- shows you the cyf.png which is the image you're looking for-->
 
 ### 3) Counting Script
 
@@ -53,6 +69,9 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+<!-- keep getting this error:
+./count_to_100.sh: line 3: syntax error near unexpected token `$'do\r''
+'/count_to_100.sh: line 3: `do -->
 
 ### 4) Quiz
 
