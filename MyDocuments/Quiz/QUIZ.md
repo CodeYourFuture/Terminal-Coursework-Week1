@@ -16,7 +16,7 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] cd ..Projects
 - [ ] mv ..
 
-**What is the correct way to move up a directory?**
+u**
 
 - [ ] cd ..
 - [ ] cd ~
@@ -26,7 +26,7 @@ You can mark your choice by putting an `x` in the correct box
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c
+- [ ] ctrl+c // X
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -34,7 +34,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key
+- [ ] The tab key // X
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
@@ -81,7 +81,7 @@ You can mark your choice by putting an `x` in the correct box
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv
+- [ ] mv // X
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
