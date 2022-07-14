@@ -16,6 +16,9 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
+cd MyDocument/Projects/MyFirstWebsite/scripts/
+"ls" in script.js
+
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -27,6 +30,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+
+cd .. four time and cd Photos/HolidayJuly/Hotel and
+"ls" inside Hotel
 
 <!-- Write your answer here -->
 
@@ -51,6 +57,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 #### 3) Answer
 
 Copy the output of the script here
+bash: ./count_to_10.sh: No such file or directory
 
 <!-- Write your answer here -->
 
