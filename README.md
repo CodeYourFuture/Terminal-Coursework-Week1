@@ -16,8 +16,10 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
-
+<!-- command to use -->
+```
+cd MyDocuments/Projects/JavaScript-Core1/
+```
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -28,8 +30,12 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- commands to use -->
+```
+cd ../..
 
+cd Photos/HolidayJuly/Hotel
+```
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -50,9 +56,23 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-Copy the output of the script here
+output of the script here
 
-<!-- Write your answer here -->
+<!-- output -->
+```
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+You should have used Ctrl+C to end the script by now! I have counted to 12
+```
 
 ### 4) Quiz
 
