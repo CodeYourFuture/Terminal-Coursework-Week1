@@ -7,11 +7,11 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] The terminal is an interface that allows you to access the command line
 - [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
-- [ ] The terminal gives you more powers/privileges to complete tasks than a GUI // X
+- [X] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects // X
+- [X] cd Projects
 - [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
@@ -26,7 +26,7 @@ u**
 **How do you stop a long running task in the terminal?**
 
 - [ ] The tab key
-- [ ] ctrl+c // X
+- [X] ctrl+c 
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
 - [ ] The escape key
@@ -34,7 +34,7 @@ u**
 
 **How do you auto-complete a command that you are typing?**
 
-- [ ] The tab key // X
+- [X] The tab key
 - [ ] ctrl+c
 - [ ] ctrl+shift or cmd+shift
 - [ ] The enter key
@@ -43,7 +43,7 @@ u**
 
 **What's the correct command to view all the files in your current directory?**
 
-- [ ] ls // X
+- [X] ls
 - [ ] pwd
 - [ ] mv
 - [ ] cd
@@ -53,7 +53,7 @@ u**
 **What's the correct command to see the current directory you are in?**
 
 - [ ] ls
-- [ ] pwd // X
+- [X] pwd
 - [ ] mv
 - [ ] cd
 - [ ] clear
@@ -65,7 +65,7 @@ u**
 - [ ] pwd
 - [ ] mv
 - [ ] cd
-- [ ] clear // X
+- [X] clear
 - [ ] mkdir
 
 **What is the correct command to make a folder in the terminal?**
@@ -75,20 +75,20 @@ u**
 - [ ] mv
 - [ ] cd
 - [ ] clear
-- [ ] mkdir // X
+- [X] mkdir
 
 **What is the correct command to move a file in the terminal?**
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv // X
+- [X] mv
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-- [ ] parameter
+- [X] parameter
 - [ ] extra
 - [ ] function
 - [ ] dash
