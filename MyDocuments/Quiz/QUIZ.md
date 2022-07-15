@@ -81,7 +81,7 @@ You can mark your choice by putting an `x` in the correct box
 
 - [ ] ls
 - [ ] pwd
-- [ ] mv
+- [x] mv
 - [ ] cd
 - [ ] clear
 - [ ] mkdir
@@ -92,4 +92,4 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] extra
 - [ ] function
 - [ ] dash
-- [ ] all
+- [x] all
