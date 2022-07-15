@@ -11,8 +11,8 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
-- [x] mv Projects
+- [x] cd Projects
+- [] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
 
