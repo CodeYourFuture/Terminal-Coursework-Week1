@@ -17,6 +17,11 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+ls
+cd my documents
+ls
+cd JavaScript-Core1
+ls
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +34,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+Press upper arrow 
+ls
+cd HolidayJuly
+cd hotel
+ls
 
 ### 3) Counting Script
 
