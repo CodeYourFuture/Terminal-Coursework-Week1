@@ -16,7 +16,11 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+1. ls
+2. cd projects
+3. ls
+4. javascript-core1
+5. ls (revealed the file script.js)
 
 ### 2) Find my Hotel Photo
 
@@ -27,6 +31,15 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+
+1. cd ..
+2. cd ..
+3. ls
+4. cd photos
+5. ls
+6. cd holidayjuly
+7. ls
+8. cd hotel (cyf.png revealed)
 
 <!-- Write your answer here -->
 
@@ -52,7 +65,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
