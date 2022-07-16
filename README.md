@@ -18,6 +18,13 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+In Terminal from 'MyDocuments' 
+cd MyFirstWebsite
+  cd Projects
+    cd MyFirstWebsite
+      cd scripts
+        ls
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +36,15 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+In Terminal from 'scripts'
+cd .. => MyFirstWebsite
+cd .. => Projects
+cd .. => MyDocuments
+cd Photos
+cd HolidayJuly
+cd Hotel
+ls 
 
 ### 3) Counting Script
 
@@ -54,6 +70,16 @@ Copy the output of the script here
 
 <!-- Write your answer here -->
 
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
