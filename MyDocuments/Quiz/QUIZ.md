@@ -16,9 +16,9 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] cd ..Projects
 - [ ] mv ..
 
-u**
+**What is the correct way to move up a directory?**
 
-- [ ] cd ..
+- [X] cd ..
 - [ ] cd ~
 - [ ] mv ..
 - [ ] cd ./
