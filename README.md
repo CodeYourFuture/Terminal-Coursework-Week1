@@ -18,7 +18,11 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+- cd MyDocuments/Projects/MyFirstWebsite/Scripts
+- ls
+
 ### 2) Find my Hotel Photo
+
 
 Great work!
 
@@ -29,6 +33,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+- cd ../../../Photos/HolidayJuly/Hotel
+- ls
 
 ### 3) Counting Script
 
