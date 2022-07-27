@@ -18,6 +18,14 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+ls
+cd MyDocuments/
+ls
+cd Projects
+ls
+cd JavaScript-Core1
+ls
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -27,6 +35,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+cd ../../Photos/
+ls
+cd HolidayJuly
+ls
+cd Hotel
 
 <!-- Write your answer here -->
 
@@ -49,11 +62,15 @@ when you're in the correct directory.
 For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
-
+cd ../../../Scripts/
 Copy the output of the script here
 
 <!-- Write your answer here -->
+I am getting an error when running script -
+./count_to_100.sh: line 3: syntax error near unexpected token `$'do\r''
+'/count_to_100.sh: line 3: `do
 
+but if it ran I would have used ctrl C to stop it
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
