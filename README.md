@@ -1,4 +1,4 @@
-# Terminal Coursework
+l# Terminal Coursework
 
 In this coursework we want to test what you've learnt in the previous coursework.
 
@@ -18,6 +18,28 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+wale@WALTER MINGW64 ~/Documents/GitHub/Terminal-Coursework-Week1 (main)
+$ pwd
+/c/Users/wale/Documents/GitHub/Terminal-Coursework-Week1
+
+wale@WALTER MINGW64 ~/Documents/GitHub/Terminal-Coursework-Week1 (main)
+$ ls                                                         
+GRADING.md          HOW-TO-SUBMIT.md  README.md
+HOW-TO-GET-HELP.md  MyDocuments/
+
+wale@WALTER MINGW64 ~/Documents/GitHub/Terminal-Coursework-Week1 (main)
+$ ls MyDocuments
+Photos/  Projects/  Quiz/  Scripts/
+
+wale@WALTER MINGW64 ~/Documents/GitHub/Terminal-Coursework-Week1 (main)
+$ ls MyDocuments/Scripts
+count_to_100.sh
+
+wale@WALTER MINGW64 ~/Documents/GitHub/Terminal-Coursework-Week1 (main)
+
+// script.js does not exist
+
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +51,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+cd MyDocuments/Photos/Hotel/cyf.png
 
 ### 3) Counting Script
 
@@ -53,6 +76,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+
+
 
 ### 4) Quiz
 
