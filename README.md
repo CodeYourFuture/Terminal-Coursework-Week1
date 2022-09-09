@@ -15,6 +15,14 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+pwd 
+cd MyDocuments 
+ls
+cd projects
+ls
+cd MyFirstWebsite
+cd scripts
+
 
 <!-- Write your answer here -->
 
@@ -27,6 +35,10 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+<!--Answer ->
+Admin@DESKTOP-T1DLJAH MINGW64 ~/Documents/Terminal-Coursework-Week1/MyDocuments/photos/HolidayJune (wm4/terminal-coursework/mesgna)
+$ ls
+cyf.png
 
 <!-- Write your answer here -->
 
@@ -50,7 +62,29 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-Copy the output of the script here
+$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+You should have used Ctrl+C to end the script by now! I have counted to 12!
+You should have used Ctrl+C to end the script by now! I have counted to 13!
+You should have used Ctrl+C to end the script by now! I have counted to 14!
+You should have used Ctrl+C to end the script by now! I have counted to 15!
+You should have used Ctrl+C to end the script by now! I have counted to 16!
+You should have used Ctrl+C to end the script by now! I have counted to 17!
+You should have used Ctrl+C to end the script by now! I have counted to 18!
+You should have used Ctrl+C to end the script by now! I have counted to 19!
+You should have used Ctrl+C to end the script by now! I have counted to 20!
+You should have used Ctrl+C to end the script by now! I have counted to 21!
+You should have used Ctrl+C to end the script by now! I have counted to 22!
 
 <!-- Write your answer here -->
 
