@@ -14,9 +14,18 @@ What commands would I need to change directory to the directory containing `scri
 
 Hint: You should use `cd` and `ls`.
 
-#### 1) Answer
+#### 1) Answer  
 
-<!-- Write your answer here -->
+-cd MyDocuments
+-ls
+-cd Projects
+-ls
+-cd MyFirstWebsite/
+-ls
+-cd scripts/
+-ls
+found  script.js
+
 
 ### 2) Find my Hotel Photo
 
@@ -28,8 +37,14 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
-
+cd ~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments
+cd Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel/
+ls
+Found cyf.png file!
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -52,7 +67,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+cd ~/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts
+./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+ctrl + C
 
 ### 4) Quiz
 
