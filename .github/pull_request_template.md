@@ -12,9 +12,9 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Franklin Perez 
+- Your City: Birmingham
+- Your Slack Name: Franklin Perez
 
 # Homework Details
 
