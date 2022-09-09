@@ -17,6 +17,35 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+I will:
+
+1. pwd 
+2. ls
+3. cd MyDocuments
+4. ls
+5. cd Photos
+6. ls
+7. cd HolidayJuly
+8. ls
+9. cd Flight
+10. ls
+11. cd ..
+12. cd Hotel
+13. ls
+14. cd ..
+15. cd..
+16. cd HolidayJune
+17. ls
+18. cd ..
+19. cd ..
+20. ls
+21. cd Projects
+22. ls
+23. cd MyFirstWebsite
+24. ls
+25. cd scripts
+26. ls
+27. Found it!! 'script.js'
 
 ### 2) Find my Hotel Photo
 
@@ -29,7 +58,18 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+I will type
 
+1. cd ..
+2. cd ..
+3. cd ..
+4. cd Photos
+5. ls
+6. cd HoliDayJuly
+7. ls
+8. cd Hotel
+9. ls
+10. Found it.
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -52,7 +92,18 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+codeyourfuture@codeyourfuture-HP-EliteBook-840-G3:~/Desktop/CYF/Cyf java week 4/js week 4/Terminal-Coursework-Week1/MyDocuments/Scripts$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccodeyourfuture@codeyourfuture-HP-EliteBook-840-G3:~/Desktop/CYF/Cyf java week 4/js week 4/Terminal-Coursework-Week1/MyDocuments/Scripts$ 
 
 ### 4) Quiz
 
