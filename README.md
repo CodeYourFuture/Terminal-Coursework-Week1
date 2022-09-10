@@ -16,7 +16,11 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here --> ls
+<!-- Write your answer here --> 
+
+cd Terminal-Coursework-Week1/cd MyDocuments/cd Projects/ cd JavaScript-Core1/ls
+
+
 
 ### 2) Find my Hotel Photo
 
