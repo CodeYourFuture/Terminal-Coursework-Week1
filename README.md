@@ -17,7 +17,7 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
-
+ cd MyDocuments and then ls ,after that cd projects and then ls,go to cd myfirstwebsite and again ls after that again cd scripts and finally ls,then you can see scripts.
 ### 2) Find my Hotel Photo
 
 Great work!
