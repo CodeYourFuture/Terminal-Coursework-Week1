@@ -35,7 +35,14 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ../../../
+ls
+cd Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel
+ls
 
 ### 3) Counting Script
 
