@@ -15,6 +15,15 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+cd MyDocuments/
+ls
+cd Projects/
+ls
+cd MyFirstWebsite/
+ls
+cd scripts/
+ls
+Found the fill in this folder (script.js)
 
 <!-- Write your answer here -->
 
