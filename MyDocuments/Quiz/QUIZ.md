@@ -88,8 +88,8 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-- [ ] parameter
-- [`x`] extra
+- [`x`] parameter
+- [ ] extra
 - [ ] function
 - [ ] dash
 - [ ] all
