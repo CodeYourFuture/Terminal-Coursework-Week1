@@ -18,6 +18,8 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+cd MyDocuments + cd Projects + cd JavaScript-Core1 ---->node script.js
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -27,6 +29,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
+
+cd MyDocuments + cd Photos + cd HolidayJuly -----> ls
 
 <!-- Write your answer here -->
 
