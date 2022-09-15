@@ -18,6 +18,8 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+'pwd','cd' 'cd' 'cd'and 'ls'.
+
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,6 +31,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+'cd ..','cd ..','cd ..','cd','cd','cd' 'ls' and 'cp'
 
 ### 3) Counting Script
 
@@ -52,7 +56,11 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
+I have counted to 10
+
 <!-- Write your answer here -->
+
+'cd ..', 'cd ..', 'cd ..', 'cd', './count_to_100.sh','ctrl+C',
 
 ### 4) Quiz
 
