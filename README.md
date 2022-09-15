@@ -16,19 +16,18 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- cd MyDocuments + ls + cd Projects + ls + cd MyFirstWebsite  -->
 
 ### 2) Find my Hotel Photo
 
 Great work!
-
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- cd .. + cd .. + ls + cd Photos + ls -->
 
 ### 3) Counting Script
 
@@ -52,7 +51,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+<!-- cd scripts + ls + ./count_to_100.sh + control c  -->
 
 ### 4) Quiz
 
