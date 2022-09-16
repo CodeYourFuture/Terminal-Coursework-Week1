@@ -72,9 +72,9 @@ Copy the output of the script here
 
 <!-- Write your answer here -->
 
-I have counted to 1 \n
-I have counted to 2 \n
-I have counted to 3 \n
+I have counted to 1
+I have counted to 2
+I have counted to 3
 I have counted to 4
 I have counted to 5
 I have counted to 6
