@@ -16,7 +16,9 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+1- show all the files bt using ls
+2 - us 'cd' to move to specifice directory
+cd  /desktop/cyf/Terminal-Coursework-Week1/MyDocuments
 
 ### 2) Find my Hotel Photo
 
