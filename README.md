@@ -16,7 +16,14 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd MyDocuments
+ls
+cd Projects
+ls
+cd MyFirstWebsite
+ls
+cd scripts
+ls
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +35,15 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ..
+cd ..
+cd ../Photos
+ls
+cd HolidayJuly
+ls
+cd Hotel
+ls
+
 
 ### 3) Counting Script
 
@@ -52,20 +67,20 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+$ cd ..
+
+$ cd ..
+
+$ cd ../Scripts
+
+$ ./count_to_100.sh I have counted to 1 I have counted to 2
 
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
 
-```
 /MyDocuments/Quiz
-```
-
 You should open the quiz in Visual Studio Code and complete it. You can do this either by opening this project in VSCode or by running the command
 
-```sh
 code QUIZ.md
-```
-
 when you're in the correct directory.
