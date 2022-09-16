@@ -16,7 +16,9 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+1- show all the files bt using 'ls'.
+2 - us 'cd' to move to specifice directory
+cd  /desktop/cyf/Terminal-Coursework-Week1/MyDocuments
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +30,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+Use 'cd' to move to from the 'MyDocuments' directory to Photo
+
+cd photos
 
 ### 3) Counting Script
 
@@ -52,8 +56,16 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
-
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
