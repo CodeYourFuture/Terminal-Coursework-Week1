@@ -15,10 +15,26 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+cd MyDocuments
+ls
+cd Projects
+ls
+cd  MyFirstWebsite
+ls
+cd scripts
+ls
 
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
+cd ..
+cd ..
+cd ./photos
+ls
+cd HolidayJuly
+ls
+cd hotel
+ls
 
 Great work!
 
