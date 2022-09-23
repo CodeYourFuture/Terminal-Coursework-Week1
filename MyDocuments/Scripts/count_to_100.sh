@@ -1,5 +1,5 @@
 ## sleep in bash for loop ##
-for i in {1..100}
+for i in {1..10}
 do
   if [ $i -lt 11 ]
   then
