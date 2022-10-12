@@ -16,7 +16,13 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+(All of this was completed within the VSCode Terminal Bash sub-window)
+
+1. gh repo fork https://github.com/CodeYourFuture/Terminal-Coursework-Week1 --fork-name "terminal" --clone
+2. cd terminal
+
+3. cd MyDocuments/Projects/MyFirstWebsite/scripts/
+4. ls (script.js is listed)
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +34,9 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+1. cd ../../..
+2. cd Photos/HolidayJuly/Hotel/
+3. ls (cyf.png is listed)
 
 ### 3) Counting Script
 
@@ -50,9 +58,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-Copy the output of the script here
-
-<!-- Write your answer here -->
+1. cd ../../..
+2. cd Scripts/
+3. ./count_to_100.sh
+   I have counted to 1
+   I have counted to 2
+   I have counted to 3
+   I have counted to 4
+   I have counted to 5
+   I have counted to 6
+   I have counted to 7
+   I have counted to 8
+   I have counted to 9
+   I have counted to 10
 
 ### 4) Quiz
 
@@ -69,3 +87,9 @@ code QUIZ.md
 ```
 
 when you're in the correct directory.
+
+#### 4) Answer
+
+1. cd ..
+2. cd Quiz
+3. code QUIZ.md
