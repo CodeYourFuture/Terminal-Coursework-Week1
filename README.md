@@ -14,12 +14,6 @@ What commands would I need to change directory to the directory containing `scri
 
 Hint: You should use `cd` and `ls`.
 
-#### 0) Fork, Clone, Change Directory
-
-1. Inside VSCode Terminal (bash)
-2. gh repo fork https://github.com/CodeYourFuture/Terminal-Coursework-Week1 --fork-name "terminal" --clone
-3. cd terminal
-
 #### 1) Answer
 
 1. cd MyDocuments/Projects/MyFirstWebsite/scripts/
@@ -72,6 +66,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
    I have counted to 8
    I have counted to 9
    I have counted to 10
+4. Ctrl + C
 
 ### 4) Quiz
 
@@ -95,9 +90,11 @@ when you're in the correct directory.
 2. cd Quiz
 3. code QUIZ.md
 
-#### 5) Status, Commit, Push, Pull Request
+#### GitHub & Git & Terminal Commands Used
 
-1. git status
-2. git commit -m "Completed"
-3. git push
-4. gh pr create --title "London 9 - Baz Murphy - Terminal-Coursework-Week1" --body "Completed"
+1. gh repo fork https://github.com/CodeYourFuture/Terminal-Coursework-Week1 --fork-name "terminal" --clone
+2. cd terminal
+3. git status
+4. git commit -m "Completed"
+5. git push
+6. gh pr create --title "London 9 - Baz Murphy - Terminal-Coursework-Week1" --body "Completed the tasks"
