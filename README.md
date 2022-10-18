@@ -95,6 +95,6 @@ when you're in the correct directory.
 1. gh repo fork https://github.com/CodeYourFuture/Terminal-Coursework-Week1 --fork-name "terminal" --clone
 2. cd terminal
 3. git status
-4. git commit -m "Completed"
+4. git commit -m "completed"
 5. git push
-6. gh pr create --title "London 9 - Baz Murphy - Terminal-Coursework-Week1" --body "Completed the tasks"
+6. gh pr create --title "London 9 - Baz Murphy - Terminal-Coursework-Week1" --body "Completed"
