@@ -18,9 +18,19 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
-### 2) Find my Hotel Photo
+cd MyDocuments
+cd Projects
+cd JavaScript-Core1
+ls
+
+<!-- Or -->
+
+cd MyDocuments/Projects/JavaScript-Core1
+ls
 
 Great work!
+
+### 2) Find my Hotel Photo
 
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
 
@@ -29,6 +39,12 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+
+cd ..
+cd ../Photos
+cd HolidayJuly
+cd Hotel
+ls
 
 ### 3) Counting Script
 
@@ -53,6 +69,31 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+I have counted to 1
+usage: sleep seconds
+I have counted to 2
+usage: sleep seconds
+I have counted to 3
+usage: sleep seconds
+I have counted to 4
+usage: sleep seconds
+I have counted to 5
+usage: sleep seconds
+I have counted to 6
+usage: sleep seconds
+I have counted to 7
+usage: sleep seconds
+I have counted to 8
+usage: sleep seconds
+I have counted to 9
+usage: sleep seconds
+I have counted to 10
+usage: sleep seconds
+
+Then use:
+Ctrl+C
+to end the script
 
 ### 4) Quiz
 
