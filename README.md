@@ -100,5 +100,5 @@ when you're in the correct directory.
 6. gh pr create
 7. base repository: CodeYourFuture/Terminal-Coursework-Week1
 8. title: London 9 - Baz Murphy - Terminal-Coursework-Week1
-9. body: e to open notepad, write body. save. close notepad.
+9. body: e to open notepad. write body. save. close notepad.
 10. submit
