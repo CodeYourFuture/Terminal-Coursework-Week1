@@ -97,4 +97,8 @@ when you're in the correct directory.
 3. git status
 4. git commit -m "completed"
 5. git push
-6. gh pr create --title "London 9 - Baz Murphy - Terminal-Coursework-Week1" --body "Completed"
+6. gh pr create
+7. base repository: CodeYourFuture/Terminal-Coursework-Week1
+8. title: London 9 - Baz Murphy - Terminal-Coursework-Week1
+9. body: e to open notepad, write body. save. close notepad.
+10. submit
