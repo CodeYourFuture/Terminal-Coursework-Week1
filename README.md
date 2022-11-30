@@ -17,6 +17,13 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+cd MyDocumwnts
+ls
+cd Projects 
+ls
+cd MyFirstWebsite
+ls 
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +36,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+cd ..
+cd ..
+ls
+cd Photos
+ls
+cd HolidayJuly
+ls
 
 ### 3) Counting Script
 
@@ -53,6 +67,14 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+cd ..
+cd ..
+ls
+cd Scripts 
+ls
+open count_to_100.sh
+./count_to_100.sh
+
 
 ### 4) Quiz
 
