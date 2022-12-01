@@ -19,10 +19,6 @@ Hint: You should use `cd` and `ls`.
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
-cd MyDocuments
-cd Projects
-cd JavaScript-Core1
-ls
 
 Great work!
 
