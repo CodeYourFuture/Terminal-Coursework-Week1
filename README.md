@@ -19,7 +19,7 @@ Hint: You should use `cd` and `ls`.
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
-
+cd MyDocuments/Projects/MyFirstWebsite/scripts
 Great work!
 
 Next, I want to try and find the photo of my hotel from my holiday in July that I want to send to a friend.
