@@ -41,7 +41,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 cd ..
 cd ..
-cd..
+cd ..
 cd Photos
 ls
 cd HolidayJuly
