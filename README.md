@@ -16,7 +16,7 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd /Users/andriana/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Scripts
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +28,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd /Users/andriana/Documents/GitHub/Terminal-Coursework-Week1/MyDocuments/Photos/Holiday
 
 ### 3) Counting Script
 
