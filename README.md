@@ -16,7 +16,7 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+    cd to find folders. ls to find list of files in folders.
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +28,17 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+First use pwd to find where I am.
+then I type in cd mydocuments and then ls.
+this is what comes up:
+Photos          Projects        Quiz            Scripts
+Then I type in cd photos to take me to this folder..
+This is what comes up:
+HolidayJuly     HolidayJune
+Then I type in cd holidayJuly to take me to this folder, then i type in ls.
+This is what comes up:
+Flight  Hotel   cyf.png
+
 
 ### 3) Counting Script
 
