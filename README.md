@@ -15,7 +15,12 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
-
+1. ls
+2. cd Documents
+3. ls
+4. cd Terminal-Coursework-Week1
+5. ls
+6. cd MyDocuments
 <!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
@@ -27,7 +32,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 **Note**: You should do this by moving from where you are after completing the previous task.
 
 #### 2) Answer
-
+1. cd..
+2. ls
+3. cd Photos
+4. ls
+5. cd HolidayJuly
 <!-- Write your answer here -->
 
 ### 3) Counting Script
@@ -38,7 +47,7 @@ Next, I want you to run the script in this directory
 /MyDocuments/Scripts/
 ```
 
-You can run the script by typing
+You can run the script by typingc
 
 ```
 ./count_to_100.sh
@@ -49,9 +58,29 @@ when you're in the correct directory.
 For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+You should have used Ctrl+C to end the script by now! I have counted to 11!
+You should have used Ctrl+C to end the script by now! I have counted to 12!
+You should have used Ctrl+C to end the script by now! I have counted to 13!
+You should have used Ctrl+C to end the script by now! I have counted to 14!
+You should have used Ctrl+C to end the script by now! I have counted to 15!
+You should have used Ctrl+C to end the script by now! I have counted to 16!
+^Ccyf@cyf-ThinkPad-L560:~/Documents/Terminal-Coursework-Week1/MyDocuments/Scripts$ ^C
 
 Copy the output of the script here
-
+1. ls
+2. cd Scripts
+3. ./count_to_100.sh
+4. Ctrl+C
 <!-- Write your answer here -->
 
 ### 4) Quiz
