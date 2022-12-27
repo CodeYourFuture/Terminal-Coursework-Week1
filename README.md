@@ -17,11 +17,8 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 cd MyDocuments
-ls
 cd Projects
-ls
 cd MyFirstWebsite
-ls
 cd scripts
 ls
 
@@ -37,9 +34,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 cd ../../../Photos
-ls
 cd HolidayJuly
-ls
 cd hotel
 ls
 
