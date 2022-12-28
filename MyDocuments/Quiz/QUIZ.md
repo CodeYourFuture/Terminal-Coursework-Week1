@@ -4,10 +4,10 @@ You can mark your choice by putting an `x` in the correct box
 
 **Which of these is incorrect?**
 
-- [ x ] The terminal is an interface that allows you to access the command line
-- [ x ] It can be much faster to complete some tasks using a Terminal than with a GUI
+- [ ] The terminal is an interface that allows you to access the command line
+- [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
-- [ ] The terminal gives you more powers/privileges to complete tasks than a GUI
+- [ x ] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
 
@@ -89,7 +89,7 @@ You can mark your choice by putting an `x` in the correct box
 **What is the correct name for the part after the - in this command "ls -all"?**
 
 - [ ] parameter
-- [ ] extra
+- [ x ] extra
 - [ ] function
 - [ ] dash
-- [ x ] all
+- [ ] all
