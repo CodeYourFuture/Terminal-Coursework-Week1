@@ -16,7 +16,8 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- I used ls to list the content of the current directory and I used cd to change directory.
+ -->
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +29,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- I used cd.. to move a level up the curent directory until MyDocuments directory. I used ls to list the content of the current directory and I used cd to change directory.-->
 
 ### 3) Counting Script
 
@@ -52,7 +53,18 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+<!-- coder@coder-HP-EliteBook-840-G3:~/CYF/Terminal-Coursework-Week1/MyDocuments/Scripts$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^Ccoder@coder-HP-EliteBook-840-G3:~/CYF/Terminal-Coursework-Week1/MyDocuments/Scripts$ -->
 
 ### 4) Quiz
 
