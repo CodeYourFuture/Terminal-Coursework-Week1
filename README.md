@@ -17,8 +17,23 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+/CodeYourFuture/Directory/Terminal-Coursework-Week1/MyDocuments <!-- The current directory -->
+cd MyDocuments
+ls
+Photos Projects Quiz Scripts
+cd Scripts
+ls
+count_to_100.sh
 
 ### 2) Find my Hotel Photo
+/CodeYourFuture/Directory/Terminal-Coursework-Week1/MyDocuments/Scripts <!-- The current directory -->
+cd ..                <!-- To navigate to the previous directory for back>
+/CodeYourFuture/Directory/Terminal-Coursework-Week1/MyDocuments <!-- now i am here>
+ls
+Photos Projects Quiz Scripts
+cd Photos          <!-- Navigate to photos directory>
+ls
+HolidayJuly HolidayJune
 
 Great work!
 
@@ -29,6 +44,10 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+/CodeYourFuture/Directory/Terminal-Coursework-Week1/MyDocuments/Photos <!-- I am here >
+cd HolidayJuly   <!--Navigate to HolidayJuly directory-->
+ls
+cyf.png Flight Hotel
 
 ### 3) Counting Script
 
@@ -53,6 +72,19 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+
+
 
 ### 4) Quiz
 
