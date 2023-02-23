@@ -41,6 +41,8 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 <!-- Write your answer here -->
 
+cd .. ,ls ,cd .. ,cd Photos ,ls ,cd HolidayJuly ,ls ,cd Hotel ,ls ,cyf.png
+
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -63,7 +65,22 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
+## sleep in bash for loop
+
+for i in {1..100}
+do
+if [ $i -lt 11 ]
+then
+echo I have counted to $i
+else
+echo You should have used Ctrl+C to end the script by now! I have counted to $i!
+fi
+sleep 0.2s
+done
+
 <!-- Write your answer here -->
+
+cd .. ,cd .. ,cd .. ,ls ,cd Scripts ,ls - count_to_100.sh ,cat count_to_100.sh
 
 ### 4) Quiz
 
@@ -80,3 +97,6 @@ code QUIZ.md
 ```
 
 when you're in the correct directory.
+
+answer :
+cd .. ,ls ,cd Quiz.md ,cat Quiz.md ,nano Quiz.md
