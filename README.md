@@ -18,6 +18,17 @@ Hint: You should use `cd` and `ls`.
 
 <!-- Write your answer here -->
 
+I used two methods:
+
+ls ,cd MyDocumets ,ls , cd JavaScript-Core1 ,ls
+
+find -name script.js
+
+./MyDocuments/Projects/JavaScript-Core1/script.js
+./MyDocuments/Projects/MyFirstWebsite/scripts/script.js
+
+-
+
 ### 2) Find my Hotel Photo
 
 Great work!
