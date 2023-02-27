@@ -16,20 +16,11 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-cd MyFirstWebsite
-
-cd Projects
-
-cd MyFirstWebsite
-
-cd scripts
-
-OR USE
-cd MyFirstWebsite
-
+cd MyDocuments/
+cd Projects/
+cd MyFirstWebsite/
+cd Scripts
 ls
-
-cd spripts
 
 ### 2) Find my Hotel Photo
 
@@ -41,11 +32,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-cd ..scripts
-
-cd ..MyFirstWebsite
-
-cd Photos
+cd ..
+cd ..
+cd ..
+cd Photos/
+cd HolidayJuly
+cd Hotel
+ls
 
 ### 3) Counting Script
 
@@ -67,18 +60,18 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-## sleep in bash for loop
-
-for i in {1..100}
-do
-if [ $i -lt 11 ]
-then
-echo I have counted to $i
-else
-echo You should have used Ctrl+C to end the script by now! I have counted to $i!
-fi
-sleep 0.2s
-done
+$ ./count_to_100.sh
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
+^C
 
 ctrl+c can be used in terminal if you want to stop a script from running
 
