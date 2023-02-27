@@ -67,9 +67,20 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-Copy the output of the script here
+## sleep in bash for loop
 
-ctrl+c
+for i in {1..100}
+do
+if [ $i -lt 11 ]
+then
+echo I have counted to $i
+else
+echo You should have used Ctrl+C to end the script by now! I have counted to $i!
+fi
+sleep 0.2s
+done
+
+ctrl+c can be used in terminal if you want to stop a script from running
 
 ### 4) Quiz
 
@@ -86,4 +97,3 @@ code QUIZ.md
 ```
 
 when you're in the correct directory.
-
