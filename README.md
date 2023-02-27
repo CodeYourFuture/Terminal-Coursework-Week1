@@ -16,7 +16,20 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd MyFirstWebsite
+
+cd Projects
+
+cd MyFirstWebsite
+
+cd scripts
+
+OR USE
+cd MyFirstWebsite
+
+ls
+
+cd spripts
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +41,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ..scripts
+
+cd ..MyFirstWebsite
+
+cd Photos
 
 ### 3) Counting Script
 
@@ -52,7 +69,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+ctrl+c
 
 ### 4) Quiz
 
@@ -69,3 +86,4 @@ code QUIZ.md
 ```
 
 when you're in the correct directory.
+
