@@ -15,8 +15,16 @@ What commands would I need to change directory to the directory containing `scri
 Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
+`MyDocuments` ls
+Photos  Projects    Quiz    Scripts
+`MyDocuments` cd Projects 
+`Projects`ls
+JavaScript-Core1    MyFirstWebsite     PortfolioWebsite
+`projects` cd MyFirstWebsite
+`MyFirstWebsite` cd scripts
+`scripts` ls
+script.js 
 
-<!-- Write your answer here -->
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +36,11 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+`MyDocuments` cd Photos
+`Photos` cd HolidayJuly
+`HolidayJuly` cd Hotel
+`Hotel` ls
+cyf.png
 
 ### 3) Counting Script
 
