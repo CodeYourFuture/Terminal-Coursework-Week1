@@ -17,6 +17,17 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
+the 'script.js' file is in MyDocuments/Projects/JavaScript-Core1
+1) cd MyDocuments 
+2) ls 
+3) cd Scripts 
+4) ls (no script.js file)
+5) cd ../
+6) cd Projects 
+7) ls 
+8) cd JavaScript-Core1
+9) ls (script.js found)
+
 
 ### 2) Find my Hotel Photo
 
@@ -29,6 +40,13 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
+1) pwd 
+2) cd ../../
+3) cd Photos
+4) ls 
+5) cd Hotel 
+6) ls 
+7) cyf photo found!
 
 ### 3) Counting Script
 
@@ -53,6 +71,29 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
+
+alyona@MacBook-Air-Alena Scripts % ./count_to_100.sh
+I have counted to 1
+usage: sleep seconds
+I have counted to 2
+usage: sleep seconds
+I have counted to 3
+usage: sleep seconds
+I have counted to 4
+usage: sleep seconds
+I have counted to 5
+usage: sleep seconds
+I have counted to 6
+usage: sleep seconds
+I have counted to 7
+usage: sleep seconds
+I have counted to 8
+usage: sleep seconds
+I have counted to 9
+usage: sleep seconds
+I have counted to 10
+usage: sleep seconds
+^C
 
 ### 4) Quiz
 
