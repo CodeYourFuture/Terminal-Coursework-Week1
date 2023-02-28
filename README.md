@@ -61,9 +61,11 @@ Next, I want you to run the script in this directory
 ```
 /MyDocuments/Scripts/
 ```
-
-You can run the script by typing
-
+  cd ..
+  ls
+  cd Scripts
+  ls
+  ./count_to_100.sh
 ```
 ./count_to_100.sh
 ```
