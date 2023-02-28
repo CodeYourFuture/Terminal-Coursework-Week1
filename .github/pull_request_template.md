@@ -9,15 +9,15 @@ For example,
 London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 -->
-hello
+
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Abubakar Meigag    
+- Your City: London
+- Your Slack Name:Beko Meigag
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: JavaScript - Terminal coursework 
+- Week:1
