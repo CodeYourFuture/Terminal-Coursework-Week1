@@ -76,7 +76,37 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 #### 3) Answer
 
-Copy the output of the script here
+```
+  ls
+  cat ./count_to_100.sh
+  vim ./count_to_100.sh
+  vim ./count_to_100.sh
+  vim ./count_to_100.sh
+  count_to_100.sh
+  ./count_to_100.sh
+  bekomeigag@abubakars-MacBook-Pro Scripts % ./count_to_100.sh
+I have counted to 1
+usage: sleep seconds
+I have counted to 2
+usage: sleep seconds
+I have counted to 3
+usage: sleep seconds
+I have counted to 4
+usage: sleep seconds
+I have counted to 5
+usage: sleep seconds
+I have counted to 6
+usage: sleep seconds
+I have counted to 7
+usage: sleep seconds
+I have counted to 8
+usage: sleep seconds
+I have counted to 9
+usage: sleep seconds
+I have counted to 10
+usage: sleep seconds
+bekomeigag@abubakars-MacBook-Pro Scripts % history 5
+```
 
 <!-- Write your answer here -->
 
