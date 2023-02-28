@@ -7,12 +7,12 @@ You can mark your choice by putting an `x` in the correct box
 - [ ] The terminal is an interface that allows you to access the command line
 - [ ] It can be much faster to complete some tasks using a Terminal than with a GUI
 - [ ] You have access to many more commands and scripts on the Terminal than with a GUI
-- [X] The terminal gives you more powers/privileges to complete tasks than a GUI
+- [x] The terminal gives you more powers/privileges to complete tasks than a GUI
 
 **What is the correct way to move to a directory called "Projects"?**
 
-- [ ] cd Projects
-- [x] mv Projects
+- [x cd Projects
+- [ ] mv Projects
 - [ ] cd ..Projects
 - [ ] mv ..
 
@@ -88,7 +88,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-- [ ] parameter
+- [x] parameter
 - [ ] extra
 - [ ] function
 - [ ] dash
