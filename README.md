@@ -17,7 +17,7 @@ Hint: You should use `cd` and `ls`.
 #### 1) Answer
 
 <!-- Write your answer here -->
-
+check PWD to know where you are then 'cd mydocument', use ls to check all the files in mydocument, use 'cd script.js' to change to script.js
 ### 2) Find my Hotel Photo
 
 Great work!
@@ -29,7 +29,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 #### 2) Answer
 
 <!-- Write your answer here -->
-
+use cd.. to go back to mydocuments, use 'cd photos and then cd holidayjuly' 
 ### 3) Counting Script
 
 Next, I want you to run the script in this directory
@@ -53,7 +53,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 Copy the output of the script here
 
 <!-- Write your answer here -->
-
+i was unable to use ctrl + c the code ran to quickly
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
