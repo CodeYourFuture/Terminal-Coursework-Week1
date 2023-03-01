@@ -16,7 +16,14 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+cd MyDocuments/
+ls (returns: Photos/ Projects/ Quiz/ Scripts/)
+cd Projects/
+ls (returns: JavaScript-Core1/ MyFirstWebsite/ PortfolioWebsite/)
+cd MyFirstWebsite/
+ls (returns: index.html scripts/ style.css)
+cd scripts/
+ls (returns: script.js)
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +35,20 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+cd ../../../../MyDocuments/
+pwd
+/c/Users/mandy/Documents/CYF/Week 6 - JS1 Week 2/Terminal-Coursework-Week1/MyDocuments
+ls
+Photos/ Projects/ Quiz/ Scripts/
+cd Photos/
+ls
+HolidayJuly/ HolidayJune/
+cd HolidayJuly/
+ls
+cyf.png Flight/ Hotel/
+cd Hotel/
+ls
+cyf.png
 
 ### 3) Counting Script
 
@@ -52,7 +72,16 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10
 
 ### 4) Quiz
 
