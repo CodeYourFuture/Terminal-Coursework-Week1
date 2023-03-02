@@ -16,7 +16,7 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- Write your answer here -->ls, cd, pwd, ls
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +28,7 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- Write your answer here --> My Documents ls, cd Photos, ls,  cd HolidaysJuly
 
 ### 3) Counting Script
 
@@ -52,8 +52,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
-
+<!-- Write your answer here --> Ctrl+c
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
