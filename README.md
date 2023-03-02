@@ -52,8 +52,7 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here --> n=0; while [[ $n -lt 10 ]]; I have Counted; n=$((n+1)); done
-
+<!-- Write your answer here --> Ctrl+c
 ### 4) Quiz
 
 In this directory you'll find a quick quiz for you to complete
