@@ -16,7 +16,21 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!--
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1$ ls
+GRADING.md  HOW-TO-GET-HELP.md  HOW-TO-SUBMIT.md  MyDocuments  README.md
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1$ cd MyDocuments
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments$ ls
+Photos  Projects  Quiz  Scripts
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments$ cd Projects
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects$ ls
+JavaScript-Core1  MyFirstWebsite  PortfolioWebsite
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects$ cd MyFirstWebsite
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite$ pwd
+/home/coder/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite$ ls
+index.html  scripts  style.css
+-->
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +42,27 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+<!-- coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite/scripts$ ls
+script.js
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite/scripts$ cd ..
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite$ ls
+index.html  scripts  style.css
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects/MyFirstWebsite$ cd ..
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects$ ls
+JavaScript-Core1  MyFirstWebsite  PortfolioWebsite
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Projects$ cd ..
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments$ ls
+Photos  Projects  Quiz  Scripts
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments$ cd Photos/
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos$ ls
+HolidayJuly  HolidayJune
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos$ cd HolidayJuly/
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ ls
+cyf.png  Flight  Hotel
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly$ cd Hotel/
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel$ ls
+cyf.png
+coder@cyf-45213:~/Documents/CodeYourFutureFiles/Terminal-Coursework-Week1/MyDocuments/Photos/HolidayJuly/Hotel$  -->
 
 ### 3) Counting Script
 
@@ -52,7 +86,17 @@ For this task, I want you to **stop** the counter when I have counted to 10.
 
 Copy the output of the script here
 
-<!-- Write your answer here -->
+<!--
+I have counted to 1
+I have counted to 2
+I have counted to 3
+I have counted to 4
+I have counted to 5
+I have counted to 6
+I have counted to 7
+I have counted to 8
+I have counted to 9
+I have counted to 10-->
 
 ### 4) Quiz
 
