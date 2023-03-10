@@ -43,6 +43,10 @@ cd..
 ls
 cd Photos/
 ls
+cd HolidayJuly/
+ls
+cd Hotel/
+ls
 -->
 
 ### 3) Counting Script
