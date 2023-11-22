@@ -16,7 +16,14 @@ Hint: You should use `cd` and `ls`.
 
 #### 1) Answer
 
-<!-- Write your answer here -->
+`ls` to list the files and folders in the actual folder.
+`cd MyDocuments/` to access the folder MyDocuments;
+`cd Scripts/` to access the *wrong* folder Scripts;
+`cd..` to go back to one directory;
+`cd Projects/` to access the folder Projects;
+`cd MyFirstWebsite/` to access the folder MyFirstWebsite;
+`ls` to list the files and folders in tha actual folder, and find the file scripts.js.
+obs. Used TAB key to autocomplete.
 
 ### 2) Find my Hotel Photo
 
@@ -28,7 +35,14 @@ Next, I want to try and find the photo of my hotel from my holiday in July that 
 
 #### 2) Answer
 
-<!-- Write your answer here -->
+`cd ../..` to go back two directories (you can add more /.. to go back to more directories);
+`cd Photos/` to access the folder Photos;
+`ls` to list the files and folders in the actual folder;
+`cd HolidayJuly/` to access the folder HolidayJuly;
+`ls` to list the files and folders in the actual folder;
+`cd Hotel/` to access the folder Hotel;
+`ls` to list the files and folders in the actual folder, and find the file cyf.png;
+obs. Used TAB key to autocomplete.
 
 ### 3) Counting Script
 
