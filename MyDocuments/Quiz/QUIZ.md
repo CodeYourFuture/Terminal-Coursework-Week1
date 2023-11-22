@@ -88,7 +88,7 @@ You can mark your choice by putting an `x` in the correct box
 
 **What is the correct name for the part after the - in this command "ls -all"?**
 
-When we type ls --help the terminal calls it an OPTION
+When we type ls --help the terminal calls it an OPTION.
 - [x] parameter 
 - [ ] extra
 - [ ] function
