@@ -9,3 +9,6 @@ do
   fi
   sleep 0.2s
 done
+
+// MY answer; 
+// ~/Desktop/CYF/All projects/Terminal-Coursework-Week1/MyDocuments/Scripts$ 
