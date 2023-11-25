@@ -14,11 +14,13 @@ What commands would I need to change directory to the directory containing `scri
 
 Hint: You should use `cd` and `ls`.
 
+
 #### 1) Answer
 
-<!-- Write your answer here -->
+<!-- pwd,ls, cd, ls clear  -->
 
 ### 2) Find my Hotel Photo
+<!--july hiliday, `CTF.PNG  -->
 
 Great work!
 
