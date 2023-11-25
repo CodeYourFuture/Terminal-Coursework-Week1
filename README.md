@@ -20,7 +20,7 @@ Hint: You should use `cd` and `ls`.
 <!-- pwd,ls, cd, ls clear  -->
 
 ### 2) Find my Hotel Photo
-<!--july hiliday, `CTF.PNG  -->
+<!--july holiday, `CTF.PNG  -->
 
 Great work!
 
